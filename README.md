@@ -4,9 +4,9 @@ This project detects four types of lung cancer using machine learning and deep l
 ![dataset-cover (1)](https://github.com/Ntaaboo/Chest-Cancer-Detection/assets/74633312/9f763be7-79fd-41b6-8fdb-27c4e5dfccea)
 
 #### ABOUT THE DATASET
-Data contain 3 chest cancer types which are Adenocarcinoma,Large cell carcinoma, Squamous cell carcinoma , and 1 folder for the normal cell. More info about dataset [Here](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) Images are in png format.
+Data contain 3 chest cancer types which are Adenocarcinoma,Large cell carcinoma, Squamous cell carcinoma , and 1 folder for the normal cell. More info about dataset [Here](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images) . Images are in png format.
 
-Get to learn how it works and read more anout it [Here](https://medium.com/@josephbowyer5)
+Get to learn how it works and read more about it [Here](https://medium.com/@josephbowyer5)
 
 
 ### Deployment
