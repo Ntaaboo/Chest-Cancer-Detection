@@ -9,7 +9,7 @@ Data contain 3 chest cancer types which are Adenocarcinoma,Large cell carcinoma,
 Get to learn how it works and read more about it [Here](https://medium.com/@josephbowyer5)
 
 
-### Deployment
+### Machine Learming Web App Using Streamlit
 The project is deployed on streamlit API. Here..
 
 **Further recommendation**
